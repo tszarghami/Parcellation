@@ -1,6 +1,6 @@
 # DCM Parcellation
 
-This is a demo for the parcellation of a dynamic causal model of the brain, based on the attention-to-visual-motion dataset.
+This is a demo for parcellation of a dynamic causal model of the brain, based on the attention-to-visual-motion dataset.
 
 Run DEMO codes in the Code folder. DCMs are included in the Data folder.
 
