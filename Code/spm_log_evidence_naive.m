@@ -3,10 +3,10 @@ function [dF,sE,sC] = spm_log_evidence_naive(qE,rE,Cp,pC)
 % Return the log-evidence of a reduced model 
 % (under Laplace approximation and assumption of statistical indep of connections)
 
-% qE      - posterior expectation of full model
-% rE      - retained connections of the full model = prior of reduced model
+% qE      - posterior expectation of the full model
+% rE      - retained connections of the full model
 % Cp      - posterior variance of the full model (n*n, not n^2 * n^2)
-% pC      - prior variance of full and reduced model (n*n, not n^2 * n^2)
+% pC      - prior variance of the full model (n*n, not n^2 * n^2)
 
 % F        - reduced log-evidence: ln p(y|reduced model) - ln p(y|full model)
 % [sE,sC]  - posterior expectation and covariance of reduced model
