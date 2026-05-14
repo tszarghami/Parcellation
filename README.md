@@ -17,6 +17,7 @@ https://www.fil.ion.ucl.ac.uk/spm/software/spm12/ OR https://github.com/spm/spm1
 Multiscale Parcellation of Dynamic Causal Models of the Brain
 
 Preprint: https://www.biorxiv.org/content/10.1101/2025.06.14.659698v2
+
 Published: https://direct.mit.edu/imag/article/doi/10.1162/IMAG.a.1234/136455/Multiscale-Parcellation-of-Dynamic-Causal-Models
 
 
